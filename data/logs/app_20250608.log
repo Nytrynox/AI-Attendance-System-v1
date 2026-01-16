@@ -1,0 +1,69 @@
+2025-06-08 18:48:17,860 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-08 18:48:19,933 - __main__ - ERROR - An unexpected error occurred: __init__() got an unexpected keyword argument 'model_path'
+Traceback (most recent call last):
+  File "main.py", line 202, in main
+    components = initialize_system()
+  File "main.py", line 77, in initialize_system
+    face_recognizer = FaceRecognizer(model_path=model_paths['face_recognition'])
+TypeError: __init__() got an unexpected keyword argument 'model_path'
+2025-06-08 18:49:10,242 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-08 18:49:13,680 - __main__ - ERROR - An unexpected error occurred: expected str, bytes or os.PathLike object, not FaceDetector
+Traceback (most recent call last):
+  File "main.py", line 201, in main
+    components = initialize_system()
+  File "main.py", line 79, in initialize_system
+    user_manager = UserManager(face_detector, face_recognizer)
+  File "C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\user_manager.py", line 16, in __init__
+    os.makedirs(self.training_data_dir, exist_ok=True)
+  File "C:\Users\idiku\AppData\Local\Programs\Python\Python38\lib\os.py", line 208, in makedirs
+    head, tail = path.split(name)
+  File "C:\Users\idiku\AppData\Local\Programs\Python\Python38\lib\ntpath.py", line 185, in split
+    p = os.fspath(p)
+TypeError: expected str, bytes or os.PathLike object, not FaceDetector
+2025-06-08 18:50:58,825 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-08 18:51:02,739 - __main__ - INFO - Starting in GUI mode
+2025-06-08 18:51:04,327 - __main__ - ERROR - An unexpected error occurred: __init__() got an unexpected keyword argument 'camera_index'
+Traceback (most recent call last):
+  File "main.py", line 205, in main
+    run_gui_mode(components, args)
+  File "main.py", line 166, in run_gui_mode
+    app = MainWindow(
+TypeError: __init__() got an unexpected keyword argument 'camera_index'
+2025-06-08 18:53:53,202 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-08 18:53:56,553 - __main__ - INFO - Starting in GUI mode
+2025-06-08 18:54:00,172 - __main__ - ERROR - An unexpected error occurred: 'MainWindow' object has no attribute 'on_closing'
+Traceback (most recent call last):
+  File "main.py", line 196, in main
+    run_gui_mode(components, args)
+  File "main.py", line 167, in run_gui_mode
+    root.protocol("WM_DELETE_WINDOW", app.on_closing)
+AttributeError: 'MainWindow' object has no attribute 'on_closing'
+2025-06-08 19:09:48,154 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-08 19:09:51,541 - __main__ - INFO - Starting in GUI mode
+2025-06-08 19:10:13,628 - __main__ - INFO - Application closed normally
+2025-06-08 19:28:22,638 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-08 19:28:27,002 - __main__ - INFO - Starting in GUI mode
+2025-06-08 19:29:32,799 - __main__ - INFO - Application closed normally
+2025-06-08 19:32:50,361 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-08 19:32:54,037 - __main__ - INFO - Starting in GUI mode
+2025-06-08 19:33:41,529 - __main__ - INFO - Application closed normally
+2025-06-08 19:46:59,833 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-08 19:47:03,380 - __main__ - INFO - Starting in GUI mode
+2025-06-08 19:50:29,786 - __main__ - INFO - Application closed normally
+2025-06-08 19:57:10,473 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-08 19:57:13,605 - __main__ - INFO - Starting in GUI mode
+2025-06-08 19:58:37,188 - __main__ - INFO - Application closed normally
+2025-06-08 20:12:50,909 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-08 20:12:54,264 - __main__ - INFO - Starting in GUI mode
+2025-06-08 20:23:34,722 - __main__ - INFO - Application closed normally
+2025-06-08 20:29:35,259 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-08 20:29:39,042 - __main__ - INFO - Starting in GUI mode
+2025-06-08 20:35:00,042 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-08 20:35:02,830 - __main__ - INFO - Starting in GUI mode
+2025-06-08 20:35:12,372 - __main__ - INFO - Application closed normally
+2025-06-08 20:36:15,997 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-08 20:36:18,824 - __main__ - INFO - Starting in GUI mode
+2025-06-08 20:36:29,078 - __main__ - INFO - Application closed normally
+2025-06-08 20:56:54,404 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-08 20:56:57,752 - __main__ - INFO - Starting in GUI mode
+2025-06-08 20:57:15,130 - __main__ - INFO - Application closed normally

@@ -1,0 +1,144 @@
+2025-06-10 07:19:18,405 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 07:19:21,695 - __main__ - INFO - Starting in GUI mode
+2025-06-10 07:19:21,834 - __main__ - INFO - Loading Enhanced GUI with live camera features
+2025-06-10 10:34:51,710 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 10:34:55,392 - __main__ - INFO - Starting in GUI mode
+2025-06-10 10:34:55,436 - __main__ - INFO - Loading Enhanced GUI with live camera features
+2025-06-10 10:35:31,118 - __main__ - INFO - Application closed normally
+2025-06-10 10:40:00,937 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 10:40:04,268 - __main__ - INFO - Starting in GUI mode
+2025-06-10 10:40:04,343 - __main__ - INFO - Loading Enhanced GUI with live camera features
+2025-06-10 10:40:17,116 - __main__ - INFO - Application closed normally
+2025-06-10 12:15:23,609 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 12:15:27,401 - __main__ - INFO - Starting in GUI mode
+2025-06-10 12:15:27,494 - __main__ - INFO - Loading Enhanced GUI with live camera features
+2025-06-10 12:15:49,161 - __main__ - INFO - Application closed normally
+2025-06-10 12:34:06,777 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 12:34:11,560 - __main__ - INFO - Starting in GUI mode
+2025-06-10 12:34:11,607 - __main__ - INFO - Loading Enhanced GUI with live camera features
+2025-06-10 12:34:23,952 - __main__ - INFO - Application closed normally
+2025-06-10 12:56:25,393 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 12:56:29,014 - __main__ - INFO - Starting in GUI mode
+2025-06-10 12:56:29,049 - __main__ - INFO - Loading Enhanced GUI with live camera features
+2025-06-10 12:56:56,856 - __main__ - INFO - Application closed normally
+2025-06-10 13:10:16,801 - __main__ - INFO - Launching complete system via launch_complete_system.py
+2025-06-10 14:00:02,398 - __main__ - INFO - Launching complete system via launch_complete_system.py
+2025-06-10 14:25:35,964 - __main__ - INFO - Launching complete system via launch_complete_system.py
+2025-06-10 15:50:17,365 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 15:50:20,968 - __main__ - INFO - Starting in GUI mode
+2025-06-10 15:50:21,077 - __main__ - ERROR - An unexpected error occurred: unexpected indent (main_window_complete.py, line 159)
+Traceback (most recent call last):
+  File "main.py", line 292, in main
+    run_gui_mode(components, args)
+  File "main.py", line 218, in run_gui_mode
+    from src.gui.main_window_complete import CompleteMainWindow
+  File "C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window_complete.py", line 159
+    self.stats_label = tk.Label(stats_frame, text="Registered Users: 0\nToday's Attendance: 0",
+    ^
+IndentationError: unexpected indent
+2025-06-10 18:23:28,030 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 18:23:31,274 - __main__ - INFO - Starting in GUI mode
+2025-06-10 18:23:31,340 - __main__ - ERROR - An unexpected error occurred: invalid syntax (main_window_complete.py, line 202)
+Traceback (most recent call last):
+  File "main.py", line 292, in main
+    run_gui_mode(components, args)
+  File "main.py", line 218, in run_gui_mode
+    from src.gui.main_window_complete import CompleteMainWindow
+  File "C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window_complete.py", line 202
+    except Exception as e:    def open_register_window(self):
+                              ^
+SyntaxError: invalid syntax
+2025-06-10 18:24:28,977 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 18:24:31,895 - __main__ - INFO - Starting in GUI mode
+2025-06-10 18:24:31,940 - __main__ - ERROR - An unexpected error occurred: invalid syntax (main_window_complete.py, line 202)
+Traceback (most recent call last):
+  File "main.py", line 292, in main
+    run_gui_mode(components, args)
+  File "main.py", line 218, in run_gui_mode
+    from src.gui.main_window_complete import CompleteMainWindow
+  File "C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window_complete.py", line 202
+    except Exception as e:    def open_register_window(self):
+                              ^
+SyntaxError: invalid syntax
+2025-06-10 18:47:20,104 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 18:47:23,459 - __main__ - INFO - Starting in GUI mode
+2025-06-10 18:47:23,587 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-10 18:47:26,669 - __main__ - ERROR - An unexpected error occurred: 'CompleteMainWindow' object has no attribute 'refresh_data'
+Traceback (most recent call last):
+  File "main.py", line 292, in main
+    run_gui_mode(components, args)
+  File "main.py", line 225, in run_gui_mode
+    app = CompleteMainWindow(root)
+  File "C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window_complete.py", line 40, in __init__
+    self.create_ui()
+  File "C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window_complete.py", line 84, in create_ui
+    command=self.refresh_data,
+AttributeError: 'CompleteMainWindow' object has no attribute 'refresh_data'
+2025-06-10 18:51:04,332 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 18:51:07,042 - __main__ - INFO - Starting in GUI mode
+2025-06-10 18:51:07,122 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-10 18:51:35,546 - __main__ - INFO - Application closed normally
+2025-06-10 18:53:35,350 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 18:53:37,994 - __main__ - INFO - Starting in GUI mode
+2025-06-10 18:53:38,098 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-10 18:54:58,024 - __main__ - INFO - Application closed normally
+2025-06-10 18:59:46,481 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 18:59:50,242 - __main__ - INFO - Starting in GUI mode
+2025-06-10 18:59:50,328 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-10 19:00:39,189 - __main__ - INFO - Application closed normally
+2025-06-10 20:31:10,878 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 20:31:13,938 - __main__ - INFO - Starting in GUI mode
+2025-06-10 20:31:13,989 - __main__ - ERROR - An unexpected error occurred: unexpected indent (main_window_complete.py, line 475)
+Traceback (most recent call last):
+  File "main.py", line 292, in main
+    run_gui_mode(components, args)
+  File "main.py", line 218, in run_gui_mode
+    from src.gui.main_window_complete import CompleteMainWindow
+  File "C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window_complete.py", line 475
+    except Exception as e:
+    ^
+IndentationError: unexpected indent
+2025-06-10 20:37:30,279 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 20:37:34,161 - __main__ - INFO - Starting in GUI mode
+2025-06-10 20:37:34,254 - __main__ - ERROR - An unexpected error occurred: unexpected indent (main_window_complete.py, line 475)
+Traceback (most recent call last):
+  File "main.py", line 292, in main
+    run_gui_mode(components, args)
+  File "main.py", line 218, in run_gui_mode
+    from src.gui.main_window_complete import CompleteMainWindow
+  File "C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window_complete.py", line 475
+    except Exception as e:
+    ^
+IndentationError: unexpected indent
+2025-06-10 20:48:14,737 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 20:48:19,522 - __main__ - INFO - Starting in GUI mode
+2025-06-10 20:48:19,667 - __main__ - ERROR - An unexpected error occurred: invalid syntax (main_window_complete.py, line 175)
+Traceback (most recent call last):
+  File "main.py", line 292, in main
+    run_gui_mode(components, args)
+  File "main.py", line 218, in run_gui_mode
+    from src.gui.main_window_complete import CompleteMainWindow
+  File "C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window_complete.py", line 175
+    self.status_text.insert(tk.END, f"[{timestamp}] {message}\n")        self.status_text.see(tk.END)
+                                                                         ^
+SyntaxError: invalid syntax
+2025-06-10 20:54:07,393 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 20:54:11,776 - __main__ - INFO - Starting in GUI mode
+2025-06-10 20:54:11,925 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-10 20:55:25,461 - __main__ - INFO - Application closed normally
+2025-06-10 22:37:54,802 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 22:37:58,258 - __main__ - INFO - Starting in GUI mode
+2025-06-10 22:37:58,359 - __main__ - ERROR - An unexpected error occurred: unexpected indent (main_window_complete.py, line 332)
+Traceback (most recent call last):
+  File "main.py", line 292, in main
+    run_gui_mode(components, args)
+  File "main.py", line 218, in run_gui_mode
+    from src.gui.main_window_complete import CompleteMainWindow
+  File "C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window_complete.py", line 332
+    if not is_real:
+    ^
+IndentationError: unexpected indent
+2025-06-10 22:40:50,398 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-10 22:40:53,333 - __main__ - INFO - Starting in GUI mode
+2025-06-10 22:40:53,485 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-10 22:43:54,792 - __main__ - INFO - Application closed normally

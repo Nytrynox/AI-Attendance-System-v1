@@ -1,0 +1,1279 @@
+2025-06-12 10:52:00,046 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 10:52:02,444 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 10:52:03,405 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models\anti_spoof_model.h5
+2025-06-12 10:52:03,407 - __main__ - INFO - Starting in GUI mode
+2025-06-12 10:52:03,556 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 10:52:07,411 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models/anti_spoof_model.h5
+2025-06-12 10:52:07,488 - __main__ - ERROR - An unexpected error occurred: 'FaceRecognizer' object has no attribute 'reload_user_data'
+Traceback (most recent call last):
+  File "main.py", line 292, in main
+    run_gui_mode(components, args)
+  File "main.py", line 225, in run_gui_mode
+    app = CompleteMainWindow(root)
+  File "C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window_complete.py", line 31, in __init__
+    self.face_recognizer.reload_user_data()  # Ensure face recognizer has latest data
+AttributeError: 'FaceRecognizer' object has no attribute 'reload_user_data'
+2025-06-12 10:53:31,550 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 10:53:33,592 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 10:53:34,313 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models\anti_spoof_model.h5
+2025-06-12 10:53:34,315 - __main__ - INFO - Starting in GUI mode
+2025-06-12 10:53:34,404 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 10:53:37,107 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models/anti_spoof_model.h5
+2025-06-12 10:53:37,115 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 10:53:37,117 - src.face_recognizer - INFO - Added face encoding for 11
+2025-06-12 10:53:37,118 - src.face_recognizer - INFO - Loaded encoding for user 11
+2025-06-12 10:53:37,119 - src.face_recognizer - INFO - Added face encoding for 111111
+2025-06-12 10:53:37,119 - src.face_recognizer - INFO - Loaded encoding for user 111111
+2025-06-12 10:53:37,120 - src.face_recognizer - INFO - Added face encoding for 122
+2025-06-12 10:53:37,121 - src.face_recognizer - INFO - Loaded encoding for user 122
+2025-06-12 10:53:37,122 - src.face_recognizer - INFO - Loaded 3 face encodings
+2025-06-12 10:53:37,123 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-12 10:53:37,124 - __main__ - ERROR - An unexpected error occurred: 'FaceRecognizer' object has no attribute 'known_ids'
+Traceback (most recent call last):
+  File "main.py", line 292, in main
+    run_gui_mode(components, args)
+  File "main.py", line 225, in run_gui_mode
+    app = CompleteMainWindow(root)
+  File "C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window_complete.py", line 34, in __init__
+    print(f"[INFO] Face recognizer has {len(self.face_recognizer.known_ids)} users")
+AttributeError: 'FaceRecognizer' object has no attribute 'known_ids'
+2025-06-12 10:54:41,688 - __main__ - DEBUG - Debug mode enabled
+2025-06-12 10:54:41,689 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 10:54:44,314 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 10:54:44,832 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models\anti_spoof_model.h5
+2025-06-12 10:54:44,834 - __main__ - INFO - Starting in GUI mode
+2025-06-12 10:54:44,890 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 10:54:47,957 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models/anti_spoof_model.h5
+2025-06-12 10:54:47,961 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 10:54:47,964 - src.face_recognizer - INFO - Added face encoding for 11
+2025-06-12 10:54:47,965 - src.face_recognizer - INFO - Loaded encoding for user 11
+2025-06-12 10:54:47,967 - src.face_recognizer - INFO - Added face encoding for 111111
+2025-06-12 10:54:47,967 - src.face_recognizer - INFO - Loaded encoding for user 111111
+2025-06-12 10:54:47,969 - src.face_recognizer - INFO - Added face encoding for 122
+2025-06-12 10:54:47,971 - src.face_recognizer - INFO - Loaded encoding for user 122
+2025-06-12 10:54:47,971 - src.face_recognizer - INFO - Loaded 3 face encodings
+2025-06-12 10:54:47,971 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-12 10:54:47,972 - __main__ - ERROR - An unexpected error occurred: 'FaceRecognizer' object has no attribute 'known_ids'
+Traceback (most recent call last):
+  File "main.py", line 292, in main
+    run_gui_mode(components, args)
+  File "main.py", line 225, in run_gui_mode
+    app = CompleteMainWindow(root)
+  File "C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window_complete.py", line 34, in __init__
+    print(f"[INFO] Face recognizer has {len(self.face_recognizer.known_ids)} users")
+AttributeError: 'FaceRecognizer' object has no attribute 'known_ids'
+2025-06-12 10:55:52,238 - __main__ - DEBUG - Debug mode enabled
+2025-06-12 10:55:52,238 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 10:55:54,673 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 10:55:55,258 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models\anti_spoof_model.h5
+2025-06-12 10:55:55,262 - __main__ - INFO - Starting in GUI mode
+2025-06-12 10:55:55,312 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 10:55:58,500 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models/anti_spoof_model.h5
+2025-06-12 10:55:58,505 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 10:55:58,506 - src.face_recognizer - INFO - Added face encoding for 11
+2025-06-12 10:55:58,506 - src.face_recognizer - INFO - Loaded encoding for user 11
+2025-06-12 10:55:58,508 - src.face_recognizer - INFO - Added face encoding for 111111
+2025-06-12 10:55:58,509 - src.face_recognizer - INFO - Loaded encoding for user 111111
+2025-06-12 10:55:58,511 - src.face_recognizer - INFO - Added face encoding for 122
+2025-06-12 10:55:58,511 - src.face_recognizer - INFO - Loaded encoding for user 122
+2025-06-12 10:55:58,512 - src.face_recognizer - INFO - Loaded 3 face encodings
+2025-06-12 10:55:58,512 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-12 10:56:37,031 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models/anti_spoof_model.h5
+2025-06-12 10:56:51,142 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:51,452 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:51,770 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:52,051 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:52,375 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:52,653 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:52,889 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:53,199 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:53,468 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:53,732 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:54,037 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:54,335 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:54,648 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:54,954 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:55,233 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:55,543 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:55,858 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:56,165 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:56,459 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:56,773 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:56:57,049 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:01,814 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:02,108 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:02,364 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:02,688 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:02,958 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:03,225 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:03,528 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:03,769 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:04,179 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:04,457 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:04,750 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:04,898 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:05,169 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:05,348 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:05,651 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:05,827 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:06,121 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:06,335 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:06,610 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:06,805 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:07,079 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:07,252 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:07,550 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:07,822 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:08,113 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:08,409 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:08,696 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:08,982 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:09,285 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:09,571 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:09,875 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:10,172 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:10,480 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:10,761 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:11,046 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:11,312 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:11,614 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:11,906 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:12,202 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:12,475 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:12,771 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:13,062 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:13,311 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:13,620 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:13,887 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:14,203 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:14,530 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:14,856 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:15,163 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:15,452 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:15,712 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:16,002 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:16,290 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:16,588 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:16,892 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:17,169 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:17,466 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:17,734 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:18,057 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:18,308 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:18,569 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:18,894 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:19,222 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:19,528 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:19,798 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:20,128 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:20,419 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:20,700 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:21,015 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:21,359 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:21,674 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:22,011 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:26,984 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:27,452 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:27,778 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:27,825 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:27,838 - src.face_recognizer - WARNING - No face found in image for encoding
+2025-06-12 10:57:28,112 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:28,147 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:28,192 - src.face_recognizer - WARNING - No face found in image for encoding
+2025-06-12 10:57:28,529 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:28,565 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:28,609 - src.face_recognizer - WARNING - No face found in image for encoding
+2025-06-12 10:57:28,865 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:28,956 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:28,983 - src.face_recognizer - WARNING - No face found in image for encoding
+2025-06-12 10:57:29,240 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:29,366 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:29,397 - src.face_recognizer - WARNING - No face found in image for encoding
+2025-06-12 10:57:29,543 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:29,697 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:29,722 - src.face_recognizer - WARNING - No face found in image for encoding
+2025-06-12 10:57:29,861 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:30,013 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:30,046 - src.face_recognizer - ERROR - Error encoding face: compute_face_descriptor(): incompatible function arguments. The following argument types are supported:
+    1. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], face: _dlib_pybind11.full_object_detection, num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vector
+    2. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], num_jitters: int = 0) -> _dlib_pybind11.vector
+    3. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], faces: _dlib_pybind11.full_object_detections, num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vectors
+    4. (self: _dlib_pybind11.face_recognition_model_v1, batch_img: list[numpy.ndarray[(rows,cols,3),numpy.uint8]], batch_faces: list[_dlib_pybind11.full_object_detections], num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vectorss
+    5. (self: _dlib_pybind11.face_recognition_model_v1, batch_img: list[numpy.ndarray[(rows,cols,3),numpy.uint8]], num_jitters: int = 0) -> _dlib_pybind11.vectors
+
+Invoked with: <_dlib_pybind11.face_recognition_model_v1 object at 0x00000246C7F433F0>, array([[[250, 253, 255],
+        [250, 254, 255],
+        [246, 250, 251],
+        ...,
+        [ 43,  44,  53],
+        [ 45,  45,  51],
+        [ 44,  44,  50]],
+
+       [[250, 252, 255],
+        [250, 254, 255],
+        [249, 253, 254],
+        ...,
+        [ 43,  44,  53],
+        [ 45,  45,  51],
+        [ 45,  45,  51]],
+
+       [[248, 254, 255],
+        [250, 253, 255],
+        [250, 253, 255],
+        ...,
+        [ 46,  45,  54],
+        [ 45,  45,  51],
+        [ 44,  44,  50]],
+
+       ...,
+
+       [[225, 232, 242],
+        [225, 232, 242],
+        [223, 230, 240],
+        ...,
+        [ 58,  65,  91],
+        [ 58,  65,  91],
+        [ 58,  65,  91]],
+
+       [[222, 230, 238],
+        [226, 233, 243],
+        [227, 234, 244],
+        ...,
+        [ 59,  66,  92],
+        [ 59,  65,  93],
+        [ 60,  66,  94]],
+
+       [[223, 231, 239],
+        [225, 232, 242],
+        [225, 232, 242],
+        ...,
+        [ 60,  66,  94],
+        [ 60,  66,  94],
+        [ 59,  65,  93]]], dtype=uint8), <_dlib_pybind11.full_object_detection object at 0x0000024680397F30>, 1
+2025-06-12 10:57:30,176 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:30,337 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:30,368 - src.face_recognizer - ERROR - Error encoding face: compute_face_descriptor(): incompatible function arguments. The following argument types are supported:
+    1. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], face: _dlib_pybind11.full_object_detection, num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vector
+    2. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], num_jitters: int = 0) -> _dlib_pybind11.vector
+    3. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], faces: _dlib_pybind11.full_object_detections, num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vectors
+    4. (self: _dlib_pybind11.face_recognition_model_v1, batch_img: list[numpy.ndarray[(rows,cols,3),numpy.uint8]], batch_faces: list[_dlib_pybind11.full_object_detections], num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vectorss
+    5. (self: _dlib_pybind11.face_recognition_model_v1, batch_img: list[numpy.ndarray[(rows,cols,3),numpy.uint8]], num_jitters: int = 0) -> _dlib_pybind11.vectors
+
+Invoked with: <_dlib_pybind11.face_recognition_model_v1 object at 0x00000246C7F433F0>, array([[[249, 249, 250],
+        [236, 229, 230],
+        [166, 159, 160],
+        ...,
+        [ 44,  43,  47],
+        [ 45,  44,  48],
+        [ 43,  42,  46]],
+
+       [[253, 253, 253],
+        [244, 237, 238],
+        [208, 201, 202],
+        ...,
+        [ 44,  43,  47],
+        [ 44,  43,  47],
+        [ 43,  42,  46]],
+
+       [[252, 252, 252],
+        [248, 244, 244],
+        [220, 216, 216],
+        ...,
+        [ 44,  45,  49],
+        [ 44,  45,  49],
+        [ 42,  43,  47]],
+
+       ...,
+
+       [[225, 233, 241],
+        [226, 234, 242],
+        [223, 231, 239],
+        ...,
+        [ 54,  66,  91],
+        [ 55,  67,  92],
+        [ 55,  67,  92]],
+
+       [[223, 231, 239],
+        [223, 231, 239],
+        [220, 228, 236],
+        ...,
+        [ 54,  66,  91],
+        [ 54,  66,  91],
+        [ 56,  68,  93]],
+
+       [[223, 231, 239],
+        [222, 230, 238],
+        [223, 231, 239],
+        ...,
+        [ 56,  68,  93],
+        [ 55,  67,  92],
+        [ 55,  67,  92]]], dtype=uint8), <_dlib_pybind11.full_object_detection object at 0x00000246803CF0B0>, 1
+2025-06-12 10:57:30,531 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:30,701 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:30,731 - src.face_recognizer - WARNING - No face found in image for encoding
+2025-06-12 10:57:30,857 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:31,014 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:31,053 - src.face_recognizer - WARNING - No face found in image for encoding
+2025-06-12 10:57:31,188 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:31,371 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:31,406 - src.face_recognizer - WARNING - No face found in image for encoding
+2025-06-12 10:57:31,548 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:31,736 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:31,801 - src.face_recognizer - ERROR - Error encoding face: compute_face_descriptor(): incompatible function arguments. The following argument types are supported:
+    1. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], face: _dlib_pybind11.full_object_detection, num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vector
+    2. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], num_jitters: int = 0) -> _dlib_pybind11.vector
+    3. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], faces: _dlib_pybind11.full_object_detections, num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vectors
+    4. (self: _dlib_pybind11.face_recognition_model_v1, batch_img: list[numpy.ndarray[(rows,cols,3),numpy.uint8]], batch_faces: list[_dlib_pybind11.full_object_detections], num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vectorss
+    5. (self: _dlib_pybind11.face_recognition_model_v1, batch_img: list[numpy.ndarray[(rows,cols,3),numpy.uint8]], num_jitters: int = 0) -> _dlib_pybind11.vectors
+
+Invoked with: <_dlib_pybind11.face_recognition_model_v1 object at 0x00000246C7F433F0>, array([[[255, 254, 253],
+        [255, 254, 253],
+        [255, 254, 253],
+        ...,
+        [ 49,  54,  59],
+        [ 59,  64,  69],
+        [ 62,  65,  69]],
+
+       [[255, 254, 253],
+        [255, 254, 253],
+        [255, 254, 253],
+        ...,
+        [ 49,  51,  57],
+        [ 56,  58,  64],
+        [ 54,  56,  62]],
+
+       [[255, 254, 253],
+        [255, 254, 253],
+        [255, 254, 253],
+        ...,
+        [ 44,  46,  52],
+        [ 49,  51,  57],
+        [ 48,  50,  56]],
+
+       ...,
+
+       [[232, 239, 244],
+        [234, 241, 246],
+        [234, 241, 246],
+        ...,
+        [ 69,  50,  52],
+        [ 70,  51,  53],
+        [ 68,  52,  54]],
+
+       [[229, 236, 241],
+        [234, 241, 246],
+        [232, 239, 244],
+        ...,
+        [ 69,  50,  52],
+        [ 70,  51,  53],
+        [ 70,  51,  54]],
+
+       [[236, 243, 248],
+        [234, 241, 246],
+        [235, 242, 247],
+        ...,
+        [ 69,  50,  52],
+        [ 70,  51,  53],
+        [ 70,  51,  53]]], dtype=uint8), <_dlib_pybind11.full_object_detection object at 0x0000024683BC32B0>, 1
+2025-06-12 10:57:31,906 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:32,076 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:32,116 - src.face_recognizer - ERROR - Error encoding face: compute_face_descriptor(): incompatible function arguments. The following argument types are supported:
+    1. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], face: _dlib_pybind11.full_object_detection, num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vector
+    2. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], num_jitters: int = 0) -> _dlib_pybind11.vector
+    3. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], faces: _dlib_pybind11.full_object_detections, num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vectors
+    4. (self: _dlib_pybind11.face_recognition_model_v1, batch_img: list[numpy.ndarray[(rows,cols,3),numpy.uint8]], batch_faces: list[_dlib_pybind11.full_object_detections], num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vectorss
+    5. (self: _dlib_pybind11.face_recognition_model_v1, batch_img: list[numpy.ndarray[(rows,cols,3),numpy.uint8]], num_jitters: int = 0) -> _dlib_pybind11.vectors
+
+Invoked with: <_dlib_pybind11.face_recognition_model_v1 object at 0x00000246C7F433F0>, array([[[252, 254, 253],
+        [252, 254, 253],
+        [254, 254, 254],
+        ...,
+        [ 44,  45,  49],
+        [ 41,  42,  46],
+        [ 41,  40,  44]],
+
+       [[252, 254, 253],
+        [252, 254, 253],
+        [254, 254, 254],
+        ...,
+        [ 45,  47,  48],
+        [ 42,  44,  45],
+        [ 43,  42,  46]],
+
+       [[254, 254, 254],
+        [254, 254, 254],
+        [254, 254, 254],
+        ...,
+        [ 45,  47,  48],
+        [ 43,  45,  46],
+        [ 44,  43,  47]],
+
+       ...,
+
+       [[232, 238, 241],
+        [232, 238, 241],
+        [229, 237, 240],
+        ...,
+        [ 57,  43,  45],
+        [ 58,  44,  46],
+        [ 60,  44,  45]],
+
+       [[230, 238, 241],
+        [230, 238, 241],
+        [229, 237, 240],
+        ...,
+        [ 57,  43,  45],
+        [ 59,  45,  47],
+        [ 61,  45,  46]],
+
+       [[230, 238, 241],
+        [229, 237, 240],
+        [229, 237, 240],
+        ...,
+        [ 59,  43,  45],
+        [ 61,  45,  47],
+        [ 62,  46,  47]]], dtype=uint8), <_dlib_pybind11.full_object_detection object at 0x0000024683BFBEF0>, 1
+2025-06-12 10:57:32,246 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:32,489 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:32,538 - src.face_recognizer - WARNING - No face found in image for encoding
+2025-06-12 10:57:32,662 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:32,995 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:33,105 - src.face_recognizer - WARNING - No face found in image for encoding
+2025-06-12 10:57:33,255 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:33,721 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:33,722 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:33,813 - src.face_recognizer - ERROR - Error encoding face: compute_face_descriptor(): incompatible function arguments. The following argument types are supported:
+    1. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], face: _dlib_pybind11.full_object_detection, num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vector
+    2. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], num_jitters: int = 0) -> _dlib_pybind11.vector
+    3. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], faces: _dlib_pybind11.full_object_detections, num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vectors
+    4. (self: _dlib_pybind11.face_recognition_model_v1, batch_img: list[numpy.ndarray[(rows,cols,3),numpy.uint8]], batch_faces: list[_dlib_pybind11.full_object_detections], num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vectorss
+    5. (self: _dlib_pybind11.face_recognition_model_v1, batch_img: list[numpy.ndarray[(rows,cols,3),numpy.uint8]], num_jitters: int = 0) -> _dlib_pybind11.vectors
+
+Invoked with: <_dlib_pybind11.face_recognition_model_v1 object at 0x00000246C7F433F0>, array([[[252, 254, 254],
+        [252, 254, 254],
+        [250, 252, 252],
+        ...,
+        [ 46,  47,  51],
+        [ 43,  44,  48],
+        [ 41,  43,  44]],
+
+       [[252, 254, 254],
+        [251, 253, 253],
+        [252, 254, 254],
+        ...,
+        [ 42,  45,  49],
+        [ 41,  44,  48],
+        [ 40,  44,  45]],
+
+       [[252, 254, 254],
+        [252, 254, 254],
+        [252, 254, 254],
+        ...,
+        [ 43,  44,  48],
+        [ 43,  44,  48],
+        [ 43,  45,  46]],
+
+       ...,
+
+       [[ 96,  73,  68],
+        [ 95,  72,  67],
+        [ 95,  72,  67],
+        ...,
+        [ 82,  58,  51],
+        [ 78,  54,  47],
+        [ 74,  50,  43]],
+
+       [[ 95,  72,  67],
+        [ 91,  68,  63],
+        [ 93,  70,  65],
+        ...,
+        [ 82,  58,  51],
+        [ 79,  55,  48],
+        [ 75,  51,  44]],
+
+       [[ 87,  67,  61],
+        [ 89,  65,  63],
+        [ 91,  67,  65],
+        ...,
+        [ 81,  57,  50],
+        [ 77,  53,  46],
+        [ 74,  50,  43]]], dtype=uint8), <_dlib_pybind11.full_object_detection object at 0x0000024683BECCB0>, 1
+2025-06-12 10:57:34,018 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:34,511 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:34,667 - src.face_recognizer - WARNING - No face found in image for encoding
+2025-06-12 10:57:34,679 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:35,116 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:35,249 - src.face_recognizer - ERROR - Error encoding face: compute_face_descriptor(): incompatible function arguments. The following argument types are supported:
+    1. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], face: _dlib_pybind11.full_object_detection, num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vector
+    2. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], num_jitters: int = 0) -> _dlib_pybind11.vector
+    3. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], faces: _dlib_pybind11.full_object_detections, num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vectors
+    4. (self: _dlib_pybind11.face_recognition_model_v1, batch_img: list[numpy.ndarray[(rows,cols,3),numpy.uint8]], batch_faces: list[_dlib_pybind11.full_object_detections], num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vectorss
+    5. (self: _dlib_pybind11.face_recognition_model_v1, batch_img: list[numpy.ndarray[(rows,cols,3),numpy.uint8]], num_jitters: int = 0) -> _dlib_pybind11.vectors
+
+Invoked with: <_dlib_pybind11.face_recognition_model_v1 object at 0x00000246C7F433F0>, array([[[247, 251, 251],
+        [242, 246, 246],
+        [239, 243, 243],
+        ...,
+        [ 43,  43,  44],
+        [ 41,  41,  42],
+        [ 45,  41,  41]],
+
+       [[242, 246, 246],
+        [243, 247, 247],
+        [241, 245, 245],
+        ...,
+        [ 45,  43,  44],
+        [ 43,  41,  42],
+        [ 45,  41,  41]],
+
+       [[241, 248, 247],
+        [246, 250, 250],
+        [245, 249, 249],
+        ...,
+        [ 47,  43,  43],
+        [ 47,  43,  43],
+        [ 49,  40,  41]],
+
+       ...,
+
+       [[ 86,  65,  62],
+        [ 85,  63,  62],
+        [ 85,  63,  62],
+        ...,
+        [ 52,  35,  32],
+        [ 52,  35,  32],
+        [ 55,  36,  33]],
+
+       [[ 86,  65,  62],
+        [ 86,  65,  62],
+        [ 84,  63,  60],
+        ...,
+        [ 52,  35,  32],
+        [ 52,  35,  32],
+        [ 55,  36,  33]],
+
+       [[ 84,  63,  65],
+        [ 84,  65,  62],
+        [ 82,  63,  60],
+        ...,
+        [ 52,  35,  32],
+        [ 53,  36,  33],
+        [ 58,  38,  32]]], dtype=uint8), <_dlib_pybind11.full_object_detection object at 0x00000246803F94F0>, 1
+2025-06-12 10:57:35,400 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:35,660 - src.anti_spoof_improved_enhanced - ERROR - Error in motion analysis: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\lkpyramid.cpp:1281: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, CV_32F, true)) >= 0 in function 'cv::`anonymous-namespace'::SparsePyrLKOpticalFlowImpl::calc'
+
+2025-06-12 10:57:35,739 - src.face_recognizer - ERROR - Error encoding face: compute_face_descriptor(): incompatible function arguments. The following argument types are supported:
+    1. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], face: _dlib_pybind11.full_object_detection, num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vector
+    2. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], num_jitters: int = 0) -> _dlib_pybind11.vector
+    3. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], faces: _dlib_pybind11.full_object_detections, num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vectors
+    4. (self: _dlib_pybind11.face_recognition_model_v1, batch_img: list[numpy.ndarray[(rows,cols,3),numpy.uint8]], batch_faces: list[_dlib_pybind11.full_object_detections], num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vectorss
+    5. (self: _dlib_pybind11.face_recognition_model_v1, batch_img: list[numpy.ndarray[(rows,cols,3),numpy.uint8]], num_jitters: int = 0) -> _dlib_pybind11.vectors
+
+Invoked with: <_dlib_pybind11.face_recognition_model_v1 object at 0x00000246C7F433F0>, array([[[240, 247, 246],
+        [240, 247, 246],
+        [240, 247, 246],
+        ...,
+        [ 41,  41,  42],
+        [ 43,  43,  44],
+        [ 49,  45,  45]],
+
+       [[240, 247, 247],
+        [240, 247, 246],
+        [240, 247, 246],
+        ...,
+        [ 47,  43,  44],
+        [ 47,  43,  44],
+        [ 51,  42,  43]],
+
+       [[243, 247, 248],
+        [243, 250, 250],
+        [241, 248, 248],
+        ...,
+        [ 47,  43,  44],
+        [ 47,  43,  44],
+        [ 49,  42,  43]],
+
+       ...,
+
+       [[ 86,  64,  63],
+        [ 83,  62,  64],
+        [ 83,  62,  64],
+        ...,
+        [ 63,  43,  37],
+        [ 67,  47,  41],
+        [ 70,  48,  41]],
+
+       [[ 86,  64,  63],
+        [ 82,  61,  63],
+        [ 80,  59,  61],
+        ...,
+        [ 63,  44,  36],
+        [ 64,  45,  37],
+        [ 72,  50,  43]],
+
+       [[ 86,  64,  63],
+        [ 84,  62,  61],
+        [ 81,  59,  58],
+        ...,
+        [ 63,  40,  35],
+        [ 67,  44,  39],
+        [ 70,  50,  44]]], dtype=uint8), <_dlib_pybind11.full_object_detection object at 0x0000024683BE05F0>, 1
+2025-06-12 10:57:35,865 - __main__ - INFO - Application closed normally
+2025-06-12 11:37:06,829 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 11:37:09,115 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 11:37:09,117 - __main__ - INFO - Starting in GUI mode
+2025-06-12 11:37:09,230 - __main__ - WARNING - Complete GUI not available, trying enhanced fixed: cannot import name 'ImprovedAntiSpoofingDetector' from 'src.anti_spoof_improved_enhanced' (C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\anti_spoof_improved_enhanced.py)
+2025-06-12 11:37:09,232 - __main__ - WARNING - Enhanced Fixed GUI not available: cannot import name 'EnhancedMainWindow' from 'src.gui.main_window_enhanced_fixed' (C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window_enhanced_fixed.py)
+2025-06-12 11:37:09,232 - __main__ - INFO - Falling back to basic GUI
+2025-06-12 11:37:09,235 - __main__ - ERROR - GUI modules not available: cannot import name 'MainWindow' from 'src.gui.main_window' (C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window.py)
+2025-06-12 11:37:09,235 - __main__ - INFO - Starting in CLI mode
+2025-06-12 11:37:16,709 - __main__ - ERROR - Error in CLI mode: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+Traceback (most recent call last):
+  File "main.py", line 250, in run_gui_mode
+    from src.gui.main_window import MainWindow
+ImportError: cannot import name 'MainWindow' from 'src.gui.main_window' (C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window.py)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 172, in run_cli_mode
+    cv2.imshow('Face Attendance System', frame)
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+2025-06-12 11:37:17,023 - __main__ - ERROR - An unexpected error occurred: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1295: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvDestroyAllWindows'
+Traceback (most recent call last):
+  File "main.py", line 250, in run_gui_mode
+    from src.gui.main_window import MainWindow
+ImportError: cannot import name 'MainWindow' from 'src.gui.main_window' (C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window.py)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 292, in main
+    run_gui_mode(components, args)
+  File "main.py", line 262, in run_gui_mode
+    run_cli_mode(components, args)
+  File "main.py", line 201, in run_cli_mode
+    cv2.destroyAllWindows()
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1295: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvDestroyAllWindows'
+
+2025-06-12 11:57:03,846 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 11:57:07,005 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 11:57:07,008 - __main__ - INFO - Starting in GUI mode
+2025-06-12 11:57:07,110 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 11:57:12,431 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models/anti_spoof_model.h5
+2025-06-12 11:57:12,512 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 11:57:12,513 - src.face_recognizer - INFO - Added face encoding for 11
+2025-06-12 11:57:12,515 - src.face_recognizer - INFO - Loaded encoding for user 11
+2025-06-12 11:57:12,520 - src.face_recognizer - INFO - Added face encoding for 111111
+2025-06-12 11:57:12,522 - src.face_recognizer - INFO - Loaded encoding for user 111111
+2025-06-12 11:57:12,523 - src.face_recognizer - INFO - Added face encoding for 122
+2025-06-12 11:57:12,524 - src.face_recognizer - INFO - Loaded encoding for user 122
+2025-06-12 11:57:12,524 - src.face_recognizer - INFO - Loaded 3 face encodings
+2025-06-12 11:57:12,524 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-12 11:57:23,037 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models/anti_spoof_model.h5
+2025-06-12 11:58:42,272 - __main__ - INFO - Application closed normally
+2025-06-12 12:16:56,885 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 12:16:59,801 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-12 12:16:59,819 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 12:16:59,856 - src.face_recognizer - INFO - Added face encoding for 122
+2025-06-12 12:16:59,864 - src.face_recognizer - INFO - Loaded encoding for user 122
+2025-06-12 12:16:59,866 - src.face_recognizer - INFO - Loaded 1 face encodings
+2025-06-12 12:16:59,868 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-12 12:16:59,869 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 12:17:01,327 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models\anti_spoof_model.h5
+2025-06-12 12:17:01,329 - __main__ - INFO - Starting in GUI mode
+2025-06-12 12:17:01,441 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 12:17:05,354 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 12:17:05,359 - src.face_recognizer - INFO - Loaded 0 face encodings
+2025-06-12 12:17:05,360 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 12:17:05,362 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-12 12:17:05,890 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models/anti_spoof_model.h5
+2025-06-12 12:17:05,893 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 12:17:05,894 - src.face_recognizer - INFO - Loaded 0 face encodings
+2025-06-12 12:17:05,895 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 12:17:21,544 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models/anti_spoof_model.h5
+2025-06-12 12:18:01,845 - __main__ - INFO - Application closed normally
+2025-06-12 12:28:08,914 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 12:28:11,097 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-12 12:28:11,098 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 12:28:11,099 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 12:28:11,099 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 12:28:11,877 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models\anti_spoof_model.h5
+2025-06-12 12:28:11,879 - __main__ - INFO - Starting in GUI mode
+2025-06-12 12:28:11,979 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 12:28:14,396 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 12:28:14,397 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 12:28:14,397 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-12 12:28:14,739 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models/anti_spoof_model.h5
+2025-06-12 12:28:14,740 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 12:28:14,743 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 12:28:20,486 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models/anti_spoof_model.h5
+2025-06-12 12:28:37,963 - __main__ - INFO - Application closed normally
+2025-06-12 19:20:30,397 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 19:20:33,296 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-12 19:20:33,296 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 19:20:33,929 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models\anti_spoof_model.h5
+2025-06-12 19:20:33,930 - __main__ - INFO - Starting in GUI mode
+2025-06-12 19:20:34,054 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 19:20:38,128 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-12 19:20:38,655 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models/anti_spoof_model.h5
+2025-06-12 19:20:38,657 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 19:20:38,658 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 19:20:44,342 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models/anti_spoof_model.h5
+2025-06-12 19:21:19,215 - __main__ - INFO - Application closed normally
+2025-06-12 19:27:27,153 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 19:27:31,354 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-12 19:27:31,356 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 19:27:32,960 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models\anti_spoof_model.h5
+2025-06-12 19:27:32,967 - __main__ - INFO - Starting in GUI mode
+2025-06-12 19:27:33,472 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 19:27:37,885 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-12 19:27:38,398 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models/anti_spoof_model.h5
+2025-06-12 19:27:38,402 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 19:27:38,404 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 19:27:59,709 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models/anti_spoof_model.h5
+2025-06-12 19:28:23,347 - __main__ - INFO - Application closed normally
+2025-06-12 19:33:46,621 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 19:33:49,073 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-12 19:33:49,073 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 19:33:49,968 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models\anti_spoof_model.h5
+2025-06-12 19:33:49,974 - __main__ - INFO - Starting in GUI mode
+2025-06-12 19:33:50,032 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 19:33:52,983 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-12 19:33:53,563 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models/anti_spoof_model.h5
+2025-06-12 19:33:53,568 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 19:33:53,577 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 19:34:03,244 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models/anti_spoof_model.h5
+2025-06-12 19:34:19,952 - __main__ - INFO - Application closed normally
+2025-06-12 19:43:11,521 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 19:43:15,057 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-12 19:43:15,060 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 19:43:15,795 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models\anti_spoof_model.h5
+2025-06-12 19:43:15,797 - __main__ - INFO - Starting in GUI mode
+2025-06-12 19:43:15,844 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 19:43:20,176 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-12 19:43:20,855 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models/anti_spoof_model.h5
+2025-06-12 19:43:20,858 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 19:43:20,866 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 19:43:30,388 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models/anti_spoof_model.h5
+2025-06-12 19:44:08,832 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models/anti_spoof_model.h5
+2025-06-12 19:44:11,283 - __main__ - INFO - Application closed normally
+2025-06-12 20:08:36,633 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 20:08:39,055 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-12 20:08:39,056 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 20:08:39,670 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models\anti_spoof_model.h5
+2025-06-12 20:08:39,671 - __main__ - INFO - Starting in GUI mode
+2025-06-12 20:08:39,703 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 20:08:42,122 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-12 20:08:42,474 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models/anti_spoof_model.h5
+2025-06-12 20:08:42,477 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 20:08:42,478 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 20:08:46,861 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models/anti_spoof_model.h5
+2025-06-12 20:09:23,687 - __main__ - INFO - Application closed normally
+2025-06-12 21:10:36,792 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 21:10:39,010 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-12 21:10:39,011 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 21:10:39,492 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models\anti_spoof_model.h5
+2025-06-12 21:10:39,496 - __main__ - INFO - Starting in GUI mode
+2025-06-12 21:10:39,624 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 21:10:43,026 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-12 21:10:43,345 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models/anti_spoof_model.h5
+2025-06-12 21:10:43,346 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 21:10:43,347 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 21:10:49,699 - src.anti_spoof_improved_enhanced - INFO - Loaded model from models/anti_spoof_model.h5
+2025-06-12 21:11:05,728 - __main__ - INFO - Application closed normally
+2025-06-12 21:24:08,989 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 21:24:11,090 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-12 21:24:11,090 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 21:24:11,091 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 21:24:11,092 - __main__ - INFO - Starting in GUI mode
+2025-06-12 21:24:11,188 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 21:24:13,516 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-12 21:24:13,517 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 21:24:13,518 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 21:24:13,519 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 21:24:19,316 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 21:25:14,939 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:15,053 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:15,218 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:15,335 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:15,488 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:15,633 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:15,734 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:15,849 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:16,009 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:16,145 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:16,285 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:16,394 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:16,539 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:16,669 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:16,807 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:16,954 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:17,066 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:17,238 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:17,341 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:17,502 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:17,635 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:17,746 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:17,897 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:18,027 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:18,165 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:18,294 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:18,707 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:18,820 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:18,941 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:19,084 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:19,210 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:19,365 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:19,507 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:19,655 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:19,790 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:19,919 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:20,085 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:20,258 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:20,416 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:20,571 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:20,701 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:20,820 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:20,953 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:21,082 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:21,199 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:21,371 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:21,485 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:21,647 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:21,782 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:21,894 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:22,053 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:22,188 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:22,371 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:22,512 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:22,648 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:41,888 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:42,543 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:42,706 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:42,920 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:44,399 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:44,587 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:44,744 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:44,896 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:50,538 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:52,839 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:53,959 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:54,117 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:54,263 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:54,898 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:55,076 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:55,232 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:55,353 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:55,502 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:25:55,923 - __main__ - INFO - Application closed normally
+2025-06-12 21:50:43,459 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 21:50:45,568 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-12 21:50:45,568 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 21:50:45,569 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 21:50:45,570 - __main__ - INFO - Starting in GUI mode
+2025-06-12 21:50:45,611 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 21:50:47,856 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-12 21:50:47,857 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 21:50:47,858 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 21:50:47,859 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 21:50:55,017 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 21:51:50,630 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:51:50,810 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:51:50,939 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:51:51,061 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:51:51,192 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:51:51,318 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:51:51,443 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:51:51,592 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:51:51,718 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:51:52,941 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:51:53,091 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:51:53,205 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:51:57,607 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:51:57,727 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:51:57,866 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:51:58,406 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:51:58,689 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:00,962 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:01,205 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:01,341 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:01,480 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:01,595 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:01,743 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:01,873 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:02,011 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:02,160 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:02,272 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:02,426 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:02,543 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:02,688 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:02,836 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:02,947 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:03,073 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:03,220 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:03,343 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:03,499 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:03,626 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:03,737 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:04,834 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:05,513 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:05,621 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:05,759 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:05,905 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:06,035 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:06,161 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:06,294 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:06,422 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:06,594 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:06,753 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 21:52:07,260 - __main__ - INFO - Application closed normally
+2025-06-12 22:01:44,832 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 22:01:46,964 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-12 22:01:46,965 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 22:01:46,965 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 22:01:46,966 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 22:01:46,966 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 22:01:46,967 - __main__ - INFO - Starting in GUI mode
+2025-06-12 22:01:47,016 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 22:01:49,439 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-12 22:01:49,439 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 22:01:49,441 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 22:01:49,441 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 22:01:49,442 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 22:01:49,444 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 22:01:54,761 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 22:02:41,438 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:02:41,572 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:02:41,699 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:02:41,821 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:02:41,990 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:02:42,131 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:02:42,271 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:02:42,397 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:02:42,557 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:02:42,734 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:02:42,860 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:02:42,985 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:02:43,114 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:02:43,258 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:02:43,767 - __main__ - INFO - Application closed normally
+2025-06-12 22:06:04,933 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 22:06:07,073 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-12 22:06:07,075 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 22:06:07,076 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 22:06:07,077 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 22:06:07,078 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 22:06:07,079 - __main__ - INFO - Starting in GUI mode
+2025-06-12 22:06:07,124 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 22:06:09,512 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-12 22:06:09,512 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 22:06:09,514 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 22:06:09,514 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 22:06:09,515 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 22:06:09,516 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 22:06:14,244 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 22:06:50,877 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:50,997 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:51,273 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:51,421 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:51,549 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:51,659 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:51,805 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:52,348 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:53,533 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:53,678 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:53,821 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:53,944 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:54,096 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:54,224 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:54,378 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:54,515 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:54,634 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:54,796 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:54,937 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:55,076 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:55,222 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:55,362 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:55,494 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:55,616 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:55,655 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 22:06:55,656 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 22:06:55,770 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:55,918 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:56,052 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:56,184 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:56,416 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:56,558 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:56,647 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 22:06:56,649 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 22:06:56,719 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:56,829 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:56,942 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:57,013 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 22:06:57,015 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 22:06:57,099 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:57,253 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:57,380 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:57,520 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:57,638 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:57,786 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:57,902 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:58,044 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:58,173 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:58,314 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:58,454 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:58,564 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:58,718 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:58,927 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 22:06:59,535 - __main__ - INFO - Application closed normally
+2025-06-12 22:17:56,982 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 22:17:59,132 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-12 22:17:59,132 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 22:17:59,132 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 22:17:59,134 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 22:17:59,136 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 22:17:59,137 - __main__ - INFO - Starting in GUI mode
+2025-06-12 22:17:59,176 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 22:18:01,494 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-12 22:18:01,495 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 22:18:01,496 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 22:18:01,496 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 22:18:01,497 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 22:18:01,499 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 22:18:06,343 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 22:18:35,500 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 22:19:00,960 - __main__ - INFO - Application closed normally
+2025-06-12 22:52:43,585 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 22:53:18,242 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 23:02:34,003 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-12 23:02:37,024 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-12 23:02:37,025 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-12 23:02:37,025 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 23:02:37,027 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 23:02:37,027 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 23:02:37,031 - __main__ - INFO - Starting in GUI mode
+2025-06-12 23:02:37,087 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-12 23:02:42,081 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-12 23:02:42,084 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 23:02:42,087 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 23:02:42,088 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-12 23:02:42,089 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-12 23:02:42,092 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-12 23:02:49,065 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:49,319 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:49,464 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:49,601 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:49,752 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:49,906 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:50,044 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:50,184 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:50,340 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:50,469 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:50,638 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:50,786 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:50,937 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:51,088 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:51,227 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:51,391 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:51,537 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:51,708 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:51,851 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:52,005 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:52,138 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:52,255 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:52,388 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:52,524 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:52,640 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:52,790 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:52,950 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:53,102 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:53,225 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:53,355 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:53,474 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:53,593 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:53,732 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:53,875 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:54,008 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:54,135 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:54,272 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:54,420 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:54,577 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:54,725 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:54,866 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:55,016 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:55,144 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:55,305 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:55,465 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:55,590 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:55,727 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:55,887 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:56,054 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:57,260 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:57,417 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:57,541 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:57,695 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:57,866 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:58,035 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:58,178 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:58,329 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:58,480 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:58,624 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:58,789 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:58,927 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:59,050 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:59,307 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:59,481 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:59,610 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:59,765 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:02:59,906 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:03:00,050 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:03:00,169 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:03:00,322 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:03:00,466 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:03:00,618 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:03:00,756 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:03:00,893 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:03:01,053 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:03:01,199 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:03:01,339 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:03:01,488 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:03:01,638 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:03:01,755 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:03:01,889 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:03:02,050 - src.face_recognizer - WARNING - No registered users in database
+2025-06-12 23:03:11,018 - __main__ - INFO - Application closed normally

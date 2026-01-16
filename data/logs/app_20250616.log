@@ -1,0 +1,31 @@
+2025-06-16 22:55:51,547 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-16 22:55:53,633 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-16 22:55:53,634 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-16 22:55:53,635 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-16 22:55:53,665 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-16 22:55:53,665 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-16 22:55:54,477 - __main__ - INFO - Starting in GUI mode
+2025-06-16 22:55:54,710 - __main__ - INFO - Loading Enhanced Camera GUI
+2025-06-16 22:55:57,777 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-16 22:55:57,777 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-16 22:55:57,779 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-16 22:55:57,780 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-16 22:55:58,186 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-16 22:55:58,190 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-16 22:55:58,190 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-16 22:57:27,058 - __main__ - INFO - Application closed normally
+2025-06-16 23:23:10,290 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-16 23:23:12,334 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-16 23:23:12,335 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-16 23:23:12,336 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-16 23:23:12,341 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-16 23:23:12,342 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-16 23:23:13,186 - __main__ - INFO - Starting in GUI mode
+2025-06-16 23:23:13,283 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-16 23:23:15,626 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-16 23:23:15,626 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-16 23:23:15,628 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-16 23:23:15,629 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-16 23:23:15,903 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-16 23:23:15,905 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-16 23:23:15,905 - src.face_recognizer - INFO - Reloaded 1 user face encodings

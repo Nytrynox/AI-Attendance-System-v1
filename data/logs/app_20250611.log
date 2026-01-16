@@ -1,0 +1,100 @@
+2025-06-11 07:47:56,676 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-11 07:48:00,665 - __main__ - INFO - Starting in GUI mode
+2025-06-11 07:48:00,827 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-11 07:48:42,472 - __main__ - INFO - Application closed normally
+2025-06-11 08:45:50,046 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-11 08:45:53,356 - __main__ - INFO - Starting in GUI mode
+2025-06-11 08:45:53,536 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-11 08:46:22,055 - __main__ - INFO - Application closed normally
+2025-06-11 08:48:45,016 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-11 08:48:48,028 - __main__ - INFO - Starting in GUI mode
+2025-06-11 08:48:48,091 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-11 08:49:08,596 - __main__ - INFO - Application closed normally
+2025-06-11 08:50:25,218 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-11 08:50:28,065 - __main__ - INFO - Starting in GUI mode
+2025-06-11 08:50:28,117 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-11 08:50:59,325 - __main__ - INFO - Application closed normally
+2025-06-11 08:51:55,254 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-11 08:51:57,925 - __main__ - INFO - Starting in GUI mode
+2025-06-11 08:51:57,986 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-11 08:52:10,394 - __main__ - INFO - Application closed normally
+2025-06-11 19:19:57,467 - __main__ - DEBUG - Debug mode enabled
+2025-06-11 19:19:57,487 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-11 19:19:59,788 - __main__ - ERROR - An unexpected error occurred: __init__() got an unexpected keyword argument 'model_path'
+Traceback (most recent call last):
+  File "main.py", line 287, in main
+    components = initialize_system()
+  File "main.py", line 77, in initialize_system
+    face_recognizer = FaceRecognizer(model_path=model_paths['face_recognition'])
+TypeError: __init__() got an unexpected keyword argument 'model_path'
+2025-06-11 19:21:38,788 - __main__ - DEBUG - Debug mode enabled
+2025-06-11 19:21:38,790 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-11 19:21:41,628 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-11 19:21:42,700 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models\anti_spoof_model.h5
+2025-06-11 19:21:42,702 - __main__ - INFO - Starting in CLI mode
+2025-06-11 19:21:47,863 - __main__ - ERROR - Error in CLI mode: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+Traceback (most recent call last):
+  File "main.py", line 172, in run_cli_mode
+    cv2.imshow('Face Attendance System', frame)
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+2025-06-11 19:21:48,165 - __main__ - ERROR - An unexpected error occurred: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1295: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvDestroyAllWindows'
+Traceback (most recent call last):
+  File "main.py", line 290, in main
+    run_cli_mode(components, args)
+  File "main.py", line 201, in run_cli_mode
+    cv2.destroyAllWindows()
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1295: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvDestroyAllWindows'
+
+2025-06-11 19:23:41,604 - __main__ - DEBUG - Debug mode enabled
+2025-06-11 19:23:41,606 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-11 19:23:44,534 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-11 19:23:45,249 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models\anti_spoof_model.h5
+2025-06-11 19:23:45,251 - __main__ - INFO - Starting in GUI mode
+2025-06-11 19:23:45,398 - __main__ - ERROR - GUI modules not available: cannot import name 'MainWindow' from 'src.gui.main_window' (C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window.py)
+2025-06-11 19:23:45,400 - __main__ - INFO - Starting in CLI mode
+2025-06-11 19:23:49,300 - __main__ - ERROR - Error in CLI mode: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+Traceback (most recent call last):
+  File "main.py", line 250, in run_gui_mode
+    from src.gui.main_window import MainWindow
+ImportError: cannot import name 'MainWindow' from 'src.gui.main_window' (C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window.py)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 172, in run_cli_mode
+    cv2.imshow('Face Attendance System', frame)
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+2025-06-11 19:23:49,603 - __main__ - ERROR - An unexpected error occurred: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1295: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvDestroyAllWindows'
+Traceback (most recent call last):
+  File "main.py", line 250, in run_gui_mode
+    from src.gui.main_window import MainWindow
+ImportError: cannot import name 'MainWindow' from 'src.gui.main_window' (C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window.py)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 292, in main
+    run_gui_mode(components, args)
+  File "main.py", line 262, in run_gui_mode
+    run_cli_mode(components, args)
+  File "main.py", line 201, in run_cli_mode
+    cv2.destroyAllWindows()
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1295: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvDestroyAllWindows'
+
+2025-06-11 20:07:20,706 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-11 20:07:23,645 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-11 20:07:24,780 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models\anti_spoof_model.h5
+2025-06-11 20:07:24,784 - __main__ - INFO - Starting in GUI mode
+2025-06-11 20:07:24,942 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-11 20:07:30,009 - src.anti_spoof_improved_enhanced - INFO - Loaded anti-spoofing model from models/anti_spoof_model.h5
+2025-06-11 20:07:30,113 - __main__ - ERROR - An unexpected error occurred: 'FaceRecognizer' object has no attribute 'reload_user_data'
+Traceback (most recent call last):
+  File "main.py", line 292, in main
+    run_gui_mode(components, args)
+  File "main.py", line 225, in run_gui_mode
+    app = CompleteMainWindow(root)
+  File "C:\Users\idiku\OneDrive\Desktop\face-attendance-system\src\gui\main_window_complete.py", line 31, in __init__
+    self.face_recognizer.reload_user_data()  # Ensure face recognizer has latest data
+AttributeError: 'FaceRecognizer' object has no attribute 'reload_user_data'

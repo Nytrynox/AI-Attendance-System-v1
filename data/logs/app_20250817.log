@@ -1,0 +1,215 @@
+2025-08-17 21:19:11,459 - __main__ - INFO - Initializing Facial Attendance System...
+2025-08-17 21:19:11,900 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-08-17 21:19:11,900 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-08-17 21:19:11,901 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-08-17 21:19:11,901 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-08-17 21:19:12,182 - __main__ - INFO - System initialization completed successfully
+2025-08-17 21:19:12,182 - __main__ - INFO - Starting in GUI mode
+2025-08-17 21:19:12,184 - __main__ - INFO - Loading Complete GUI
+2025-08-17 21:19:13,215 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-08-17 21:19:13,215 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-08-17 21:19:13,215 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-08-17 21:19:13,215 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-08-17 21:19:13,215 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-08-17 21:19:13,215 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-08-17 21:19:13,215 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-08-17 21:20:00,986 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-08-17 21:20:00,987 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-08-17 21:20:00,987 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-08-17 21:20:00,987 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-08-17 21:20:03,586 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-08-17 21:20:03,586 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-08-17 21:20:03,586 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-08-17 21:20:03,586 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-08-17 21:20:12,012 - src.face_recognizer - INFO - Database directory modification detected - refreshing user database
+2025-08-17 21:20:12,012 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-08-17 21:20:12,012 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-08-17 21:20:12,012 - src.face_recognizer - INFO - Loaded encoding for user 888
+2025-08-17 21:20:12,012 - src.face_recognizer - INFO - Reloaded 2 user face encodings
+2025-08-17 21:20:12,018 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:12,111 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:12,207 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:14,215 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:14,309 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:14,415 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:14,510 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:14,610 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:14,712 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:14,913 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:16,382 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:16,477 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:16,585 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:16,677 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:16,783 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:17,077 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:17,180 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:17,282 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:17,595 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:17,687 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:17,984 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:19,089 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:19,519 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:19,624 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:19,714 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:20,220 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:20,316 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:20,422 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:20,515 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:20,622 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:20,716 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:20,821 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:20,915 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:21,024 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:21,123 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:21,215 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:21,323 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:21,420 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:21,516 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:21,626 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:21,726 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:21,815 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:21,921 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:22,015 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:22,123 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:22,217 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:22,325 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:22,416 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:22,525 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:22,617 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:22,725 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:22,817 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:22,924 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:23,016 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:23,125 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:23,218 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:23,321 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:23,417 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:23,529 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:23,617 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:23,722 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:23,817 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:23,920 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:24,017 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:24,128 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:24,219 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:24,322 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:24,424 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:24,516 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:24,616 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:24,725 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:24,831 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:24,970 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:25,094 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:25,192 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:25,291 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:25,385 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:25,491 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:25,586 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:25,690 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:25,786 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:25,889 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:25,989 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:26,090 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:26,189 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:26,290 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:26,390 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:26,817 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:26,919 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:27,027 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:27,120 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:27,226 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:27,357 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:27,455 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:27,852 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:27,959 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:28,051 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:28,159 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:28,255 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:28,355 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:28,451 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:28,652 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:28,757 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:29,025 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:29,119 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:29,225 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:29,721 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:29,891 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:29,987 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:30,096 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:30,188 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:30,296 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:30,651 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:30,754 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:30,866 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:30,961 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:31,256 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:31,359 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:31,456 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:31,657 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:31,761 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:32,056 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:32,163 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:32,257 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:32,361 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:32,456 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:32,563 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:32,657 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:32,762 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:32,961 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:33,057 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:33,656 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:33,760 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:33,860 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:34,463 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:35,527 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:35,624 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:36,443 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:36,592 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:36,890 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:36,997 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:37,891 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:37,997 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:38,320 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:38,436 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:38,666 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:38,761 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:38,860 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:38,964 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:40,191 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:40,298 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:40,393 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:40,499 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:40,596 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:40,698 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:40,796 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:43,074 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-08-17 21:20:43,075 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-08-17 21:20:43,075 - src.face_recognizer - INFO - Loaded encoding for user 888
+2025-08-17 21:20:43,075 - src.face_recognizer - INFO - Reloaded 2 user face encodings
+2025-08-17 21:20:46,477 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:46,773 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:46,866 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:46,971 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:47,066 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:47,175 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:47,277 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:47,366 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:47,475 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:47,775 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:49,010 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:49,101 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:50,436 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:50,540 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:50,634 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:50,741 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:50,835 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:50,942 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:51,035 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:51,142 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:51,235 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:51,338 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:51,434 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:51,541 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:51,637 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:51,742 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-08-17 21:20:52,034 - __main__ - INFO - Application closed normally

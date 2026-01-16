@@ -1,0 +1,1008 @@
+2025-06-13 00:10:16,985 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 00:10:18,929 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 00:10:18,930 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 00:10:18,930 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 00:10:18,931 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-13 00:10:18,931 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-13 00:10:18,934 - __main__ - INFO - Starting in GUI mode
+2025-06-13 00:10:19,015 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 00:10:21,510 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 00:10:21,512 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 00:10:21,514 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-13 00:10:21,514 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-13 00:10:21,516 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 00:10:21,519 - src.face_recognizer - INFO - Reloaded 0 user face encodings
+2025-06-13 00:10:48,055 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:48,246 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:48,366 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:48,501 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:48,630 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:48,726 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:48,837 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:48,943 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:49,057 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:49,178 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:49,308 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:49,432 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:49,578 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:49,700 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:49,837 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:49,967 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:50,082 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:50,211 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:50,335 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:50,452 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:50,564 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:50,684 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:50,808 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:50,936 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:51,056 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:51,181 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:51,305 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:51,420 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:51,553 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:51,676 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:51,788 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:51,931 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:52,058 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:52,179 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:52,300 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:52,417 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:52,526 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:52,633 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:52,736 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:52,862 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:52,976 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:53,100 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:53,220 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:53,328 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:53,435 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:53,561 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:53,677 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:53,798 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:53,924 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:54,053 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:54,180 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:54,297 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:54,415 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:54,547 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:54,666 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:54,769 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:54,884 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:55,004 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:55,136 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:55,256 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:55,373 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:55,489 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:55,612 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:55,732 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:55,855 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:55,968 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:56,088 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:56,207 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:56,328 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:56,442 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:56,562 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:56,674 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:56,789 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:56,906 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:57,012 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:57,130 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:57,230 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:57,359 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:57,487 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:57,602 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:57,719 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:57,840 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:57,960 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:58,071 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:58,179 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:58,289 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:58,415 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:58,526 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:58,648 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:58,766 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:58,885 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:59,011 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:59,112 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:59,222 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:59,331 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:59,444 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:59,567 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:59,692 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:59,817 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:10:59,934 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:00,062 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:00,174 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:00,300 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:00,428 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:00,528 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:00,627 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:00,736 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:00,851 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:00,970 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:01,084 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:01,195 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:01,313 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:01,437 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:01,544 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:01,653 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:01,762 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:01,888 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:01,996 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:02,126 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:02,234 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:02,359 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:02,477 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:02,585 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:02,700 - src.face_recognizer - WARNING - No registered users in database
+2025-06-13 00:11:03,403 - __main__ - INFO - Application closed normally
+2025-06-13 00:40:43,399 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 00:40:45,147 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 00:40:45,148 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 00:40:45,148 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 00:40:45,149 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 00:40:45,151 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-13 00:40:45,152 - __main__ - INFO - No registered users found. System is ready for new registrations.
+2025-06-13 00:40:45,154 - __main__ - INFO - Starting in GUI mode
+2025-06-13 00:40:45,264 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 00:40:47,186 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 00:40:47,186 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 00:40:47,188 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 00:40:47,190 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-13 00:40:47,191 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 00:40:47,193 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 00:40:59,130 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-13 00:41:00,868 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-13 00:41:03,686 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 00:41:03,688 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 00:41:03,697 - __main__ - INFO - Application closed normally
+2025-06-13 00:41:13,479 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 00:41:15,387 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 00:41:15,388 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 00:41:15,388 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 00:41:15,390 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 00:41:15,391 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-13 00:41:15,394 - __main__ - INFO - No registered users found. System is ready for new registrations.
+2025-06-13 00:41:15,413 - __main__ - INFO - Starting in GUI mode
+2025-06-13 00:41:15,447 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 00:41:17,201 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 00:41:17,201 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 00:41:17,202 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 00:41:17,204 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-13 00:41:17,206 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 00:41:17,207 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 00:41:23,127 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-13 00:41:47,288 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 00:41:47,290 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 00:41:47,291 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 00:41:56,213 - src.face_recognizer - WARNING - No registered users in database - recognition will return 'Unknown' until users are registered
+2025-06-13 08:55:23,260 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 08:55:25,188 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 08:55:25,189 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 08:55:25,189 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 08:55:25,190 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 08:55:25,194 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-13 08:55:25,198 - __main__ - INFO - No registered users found. System is ready for new registrations.
+2025-06-13 08:55:25,224 - __main__ - INFO - Starting in GUI mode
+2025-06-13 08:55:25,339 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 08:55:28,807 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 08:55:28,809 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 08:55:28,809 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 08:55:28,811 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-13 08:55:28,815 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 08:55:28,818 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 08:55:38,968 - src.anti_spoof_improved_enhanced - INFO - Using ultra-lenient rule-based detection only
+2025-06-13 08:55:52,672 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 08:55:52,675 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 08:55:52,691 - __main__ - INFO - Application closed normally
+2025-06-13 09:12:33,848 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 09:12:35,604 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 09:12:35,605 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 09:12:35,605 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 09:12:35,606 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 09:12:36,339 - __main__ - INFO - No registered users found. System is ready for new registrations.
+2025-06-13 09:12:36,340 - __main__ - INFO - Starting in GUI mode
+2025-06-13 09:12:36,479 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 09:12:39,348 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 09:12:39,348 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 09:12:39,349 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 09:12:39,627 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 09:12:39,628 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 09:13:36,136 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 09:13:36,146 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 09:13:36,150 - __main__ - INFO - Application closed normally
+2025-06-13 09:17:08,731 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 09:17:10,420 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 09:17:10,421 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 09:17:10,421 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 09:17:10,423 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 09:17:10,834 - __main__ - INFO - No registered users found. System is ready for new registrations.
+2025-06-13 09:17:10,835 - __main__ - INFO - Starting in GUI mode
+2025-06-13 09:17:10,872 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 09:17:12,639 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 09:17:12,639 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 09:17:12,640 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 09:17:12,907 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 09:17:12,908 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 09:19:33,467 - __main__ - INFO - Application closed normally
+2025-06-13 09:20:21,871 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 09:20:23,862 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 09:20:23,862 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 09:20:23,864 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 09:20:23,865 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 09:20:24,279 - __main__ - INFO - No registered users found. System is ready for new registrations.
+2025-06-13 09:20:24,279 - __main__ - INFO - Starting in GUI mode
+2025-06-13 09:20:24,370 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 09:20:26,290 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 09:20:26,290 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 09:20:26,292 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 09:20:26,583 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 09:20:26,584 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 09:20:44,587 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 09:20:44,592 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 09:20:44,598 - __main__ - INFO - Application closed normally
+2025-06-13 10:12:05,786 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 10:12:07,700 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 10:12:07,700 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 10:12:07,701 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 10:12:07,702 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 10:12:08,212 - __main__ - INFO - No registered users found. System is ready for new registrations.
+2025-06-13 10:12:08,213 - __main__ - INFO - Starting in GUI mode
+2025-06-13 10:12:08,282 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 10:12:10,180 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 10:12:10,181 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 10:12:10,182 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 10:12:10,475 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 10:12:10,477 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 10:12:20,702 - src.face_recognizer - WARNING - No registered users in database - recognition will return 'Unknown' until users are registered
+2025-06-13 10:12:24,668 - __main__ - INFO - Application closed normally
+2025-06-13 10:31:56,315 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 10:31:58,581 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 10:31:58,582 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 10:31:58,582 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 10:31:58,584 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 10:31:59,484 - __main__ - INFO - No registered users found. System is ready for new registrations.
+2025-06-13 10:31:59,485 - __main__ - INFO - Starting in GUI mode
+2025-06-13 10:31:59,616 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 10:32:01,992 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 10:32:01,993 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 10:32:01,994 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 10:32:02,299 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 10:32:02,300 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 10:33:22,044 - src.face_recognizer - WARNING - No registered users in database - recognition will return 'Unknown' until users are registered
+2025-06-13 10:34:13,390 - __main__ - INFO - Application closed normally
+2025-06-13 10:38:08,322 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 10:38:10,548 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 10:38:10,548 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 10:38:10,549 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 10:38:10,550 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 10:38:11,082 - __main__ - INFO - No registered users found. System is ready for new registrations.
+2025-06-13 10:38:11,083 - __main__ - INFO - Starting in GUI mode
+2025-06-13 10:38:11,136 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 10:38:13,748 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 10:38:13,749 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 10:38:13,750 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 10:38:14,190 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 10:38:14,192 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 10:39:16,345 - src.face_recognizer - WARNING - No registered users in database - recognition will return 'Unknown' until users are registered
+2025-06-13 10:39:21,048 - __main__ - INFO - Application closed normally
+2025-06-13 10:44:34,398 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 10:44:36,702 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 10:44:36,703 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 10:44:36,705 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 10:44:36,708 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 10:44:37,356 - __main__ - INFO - No registered users found. System is ready for new registrations.
+2025-06-13 10:44:37,357 - __main__ - INFO - Starting in GUI mode
+2025-06-13 10:44:37,430 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 10:44:39,915 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 10:44:39,916 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 10:44:39,917 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 10:44:40,231 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 10:44:40,232 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 10:54:27,826 - __main__ - INFO - Application closed normally
+2025-06-13 11:08:21,070 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 11:08:23,649 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 11:08:23,649 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 11:08:23,650 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 11:08:23,659 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 11:08:23,659 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 11:08:23,661 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 11:08:23,662 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 11:08:24,452 - __main__ - INFO - Starting in GUI mode
+2025-06-13 11:08:24,533 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 11:08:26,449 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 11:08:26,449 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 11:08:26,452 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 11:08:26,452 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 11:08:26,453 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 11:08:26,453 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 11:08:26,725 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 11:08:26,729 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 11:08:26,731 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 11:08:26,733 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 11:08:26,734 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 11:09:24,948 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:26,336 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:27,178 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:28,030 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:28,965 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:31,071 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:35,635 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:37,250 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:40,020 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:40,836 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:43,235 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:50,450 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:51,482 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:52,289 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:53,113 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:54,134 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:55,116 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:56,130 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:09:57,019 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:10:01,168 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:10:02,026 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:11:14,343 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 11:11:14,347 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 11:11:14,348 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 11:11:14,348 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 11:11:14,349 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 11:11:15,441 - __main__ - INFO - Application closed normally
+2025-06-13 11:19:01,257 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 11:19:02,873 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 11:19:02,874 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 11:19:02,874 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 11:19:02,875 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 11:19:02,875 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 11:19:02,875 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 11:19:02,875 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 11:19:03,252 - __main__ - INFO - Starting in GUI mode
+2025-06-13 11:19:03,375 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 11:19:05,104 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 11:19:05,105 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 11:19:05,108 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 11:19:05,108 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 11:19:05,108 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 11:19:05,109 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 11:19:05,392 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 11:19:05,397 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 11:19:05,398 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 11:19:05,400 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 11:19:05,401 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 11:19:14,461 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:19:15,354 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:19:19,208 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:19:23,800 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:19:27,234 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:19:28,075 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:19:28,933 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 11:19:39,348 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 11:19:39,354 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 11:19:39,355 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 11:19:39,355 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 11:19:39,356 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 11:19:40,844 - __main__ - INFO - Application closed normally
+2025-06-13 15:18:28,199 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 15:18:29,888 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 15:18:29,889 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 15:18:29,889 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 15:18:29,897 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 15:18:29,897 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 15:18:29,898 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 15:18:29,901 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 15:18:30,557 - __main__ - INFO - Starting in GUI mode
+2025-06-13 15:18:30,617 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 15:18:32,659 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 15:18:32,659 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 15:18:32,663 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 15:18:32,663 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 15:18:32,664 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 15:18:32,664 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 15:18:33,019 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 15:18:33,033 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 15:18:33,034 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 15:18:33,034 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 15:18:33,035 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 15:19:23,986 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 15:19:25,422 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 15:19:26,337 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 15:19:31,932 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 15:19:33,651 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 15:19:34,643 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 15:19:40,219 - __main__ - INFO - Application closed normally
+2025-06-13 17:08:59,014 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 17:09:01,585 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 17:09:01,587 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 17:09:01,588 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 17:09:01,600 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 17:09:01,601 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 17:09:01,601 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 17:09:01,602 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 17:09:02,760 - __main__ - INFO - Starting in GUI mode
+2025-06-13 17:09:02,955 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 17:09:06,006 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 17:09:06,007 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 17:09:06,012 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 17:09:06,012 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 17:09:06,013 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 17:09:06,016 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 17:09:08,018 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 17:09:08,026 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 17:09:08,027 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 17:09:08,031 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 17:09:08,031 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 17:10:07,429 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 17:10:14,642 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 17:10:14,663 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 17:10:14,665 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 17:10:14,666 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 17:10:14,668 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 17:10:16,774 - __main__ - INFO - Application closed normally
+2025-06-13 17:16:09,640 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 17:16:11,466 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 17:16:11,467 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 17:16:11,467 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 17:16:11,478 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 17:16:11,479 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 17:16:11,479 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 17:16:11,480 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 17:16:12,218 - __main__ - INFO - Starting in GUI mode
+2025-06-13 17:16:12,347 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 17:16:14,232 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 17:16:14,232 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 17:16:14,238 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 17:16:14,238 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 17:16:14,238 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 17:16:14,240 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 17:16:14,509 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 17:16:14,537 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 17:16:14,537 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 17:16:14,538 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 17:16:14,538 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 17:16:54,804 - __main__ - INFO - Application closed normally
+2025-06-13 17:18:31,024 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 17:18:32,829 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 17:18:32,830 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 17:18:32,830 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 17:18:32,834 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 17:18:32,834 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 17:18:32,835 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 17:18:32,835 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 17:18:33,388 - __main__ - INFO - Starting in GUI mode
+2025-06-13 17:18:33,438 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 17:18:35,325 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 17:18:35,328 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 17:18:35,332 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 17:18:35,332 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 17:18:35,333 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 17:18:35,339 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 17:18:35,629 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 17:18:35,632 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 17:18:35,633 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 17:18:35,633 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 17:18:35,634 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 17:18:59,478 - __main__ - INFO - Application closed normally
+2025-06-13 17:22:07,060 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 17:22:08,835 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 17:22:08,835 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 17:22:08,836 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 17:22:08,840 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 17:22:08,840 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 17:22:08,840 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 17:22:08,841 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 17:22:09,618 - __main__ - INFO - Starting in GUI mode
+2025-06-13 17:22:09,696 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 17:22:11,615 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 17:22:11,616 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 17:22:11,618 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 17:22:11,618 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 17:22:11,618 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 17:22:11,620 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 17:22:11,934 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 17:22:11,946 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 17:22:11,947 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 17:22:11,947 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 17:22:11,948 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 17:22:40,677 - __main__ - INFO - Application closed normally
+2025-06-13 19:23:19,821 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 19:23:21,607 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 19:23:21,607 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 19:23:21,608 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 19:23:21,620 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 19:23:21,621 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 19:23:21,624 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 19:23:21,625 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 19:23:22,412 - __main__ - INFO - Starting in GUI mode
+2025-06-13 19:23:22,495 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 19:23:24,401 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 19:23:24,402 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 19:23:24,405 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 19:23:24,406 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 19:23:24,406 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 19:23:24,406 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 19:23:24,669 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 19:23:24,672 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 19:23:24,673 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 19:23:24,673 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 19:23:24,674 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 19:23:38,316 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 19:23:38,322 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 19:23:38,323 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 19:23:38,324 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 19:23:38,324 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 19:23:39,855 - __main__ - INFO - Application closed normally
+2025-06-13 19:45:25,359 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 19:45:29,086 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 19:45:29,087 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 19:45:29,088 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 19:45:29,098 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 19:45:29,098 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 19:45:29,099 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 19:45:29,099 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 19:45:30,252 - __main__ - INFO - Starting in GUI mode
+2025-06-13 19:45:30,348 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 19:45:33,387 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 19:45:33,388 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 19:45:33,394 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 19:45:33,394 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 19:45:33,395 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 19:45:33,396 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 19:45:33,950 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 19:45:33,958 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 19:45:33,959 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 19:45:33,959 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 19:45:33,959 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 19:45:45,363 - __main__ - INFO - Application closed normally
+2025-06-13 19:50:51,244 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 19:50:53,369 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 19:50:53,371 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 19:50:53,371 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 19:50:53,380 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 19:50:53,380 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 19:50:53,381 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 19:50:53,382 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 19:50:54,349 - __main__ - INFO - Starting in GUI mode
+2025-06-13 19:50:54,546 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 19:50:56,927 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 19:50:56,928 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 19:50:56,931 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 19:50:56,931 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 19:50:56,932 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 19:50:56,932 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 19:50:57,289 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 19:50:57,295 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 19:50:57,299 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 19:50:57,304 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 19:50:57,305 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 19:51:12,521 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 19:51:13,476 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 19:51:31,530 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 19:51:32,517 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 19:51:34,051 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 19:51:35,083 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 19:51:36,763 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 19:51:38,889 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 19:51:44,664 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 19:51:56,585 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 19:51:58,002 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 19:52:08,415 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 19:52:08,426 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 19:52:08,427 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 19:52:08,429 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 19:52:08,429 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 19:52:10,752 - __main__ - INFO - Application closed normally
+2025-06-13 19:55:19,238 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 19:55:21,159 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 19:55:21,160 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 19:55:21,160 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 19:55:21,166 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 19:55:21,166 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 19:55:21,167 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 19:55:21,168 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 19:55:21,864 - __main__ - INFO - Starting in GUI mode
+2025-06-13 19:55:21,948 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 19:55:24,076 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 19:55:24,077 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 19:55:24,079 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 19:55:24,080 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 19:55:24,080 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 19:55:24,080 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 19:55:24,369 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 19:55:24,372 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 19:55:24,372 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 19:55:24,372 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 19:55:24,373 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 19:55:39,482 - __main__ - INFO - Application closed normally
+2025-06-13 19:57:37,783 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 19:57:39,756 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 19:57:39,756 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 19:57:39,757 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 19:57:39,761 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 19:57:39,762 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 19:57:39,763 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 19:57:39,763 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 19:57:40,359 - __main__ - INFO - Starting in GUI mode
+2025-06-13 19:57:40,443 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 19:57:42,770 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 19:57:42,770 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 19:57:42,774 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 19:57:42,774 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 19:57:42,774 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 19:57:42,774 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 19:57:43,058 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 19:57:43,063 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 19:57:43,063 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 19:57:43,064 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 19:57:43,064 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 19:57:50,829 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 19:57:52,548 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 19:58:00,953 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 19:58:01,881 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 19:58:02,772 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 19:58:35,396 - __main__ - INFO - Application closed normally
+2025-06-13 20:01:45,133 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 20:01:47,034 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 20:01:47,036 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 20:01:47,037 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:01:47,041 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 20:01:47,041 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 20:01:47,042 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 20:01:47,043 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 20:01:47,586 - __main__ - INFO - Starting in GUI mode
+2025-06-13 20:01:47,673 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 20:01:49,749 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 20:01:49,750 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:01:49,752 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 20:01:49,753 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 20:01:49,753 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 20:01:49,753 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 20:01:49,991 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:01:49,995 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 20:01:49,995 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 20:01:49,995 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 20:01:49,995 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 20:01:57,830 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 20:01:58,942 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 20:01:59,909 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 20:02:13,744 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 20:02:35,241 - __main__ - INFO - Application closed normally
+2025-06-13 20:15:33,020 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 20:15:35,003 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 20:15:35,005 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 20:15:35,005 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:15:35,015 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 20:15:35,016 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 20:15:35,016 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 20:15:35,016 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 20:15:36,087 - __main__ - INFO - Starting in GUI mode
+2025-06-13 20:15:36,267 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 20:15:38,721 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 20:15:38,722 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:15:38,725 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 20:15:38,726 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 20:15:38,726 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 20:15:38,726 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 20:15:39,055 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:15:39,057 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 20:15:39,057 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 20:15:39,057 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 20:15:39,059 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 20:15:52,595 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 20:15:55,438 - __main__ - INFO - Application closed normally
+2025-06-13 20:16:58,836 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 20:17:01,034 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 20:17:01,034 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 20:17:01,035 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:17:01,037 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 20:17:01,037 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 20:17:01,037 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 20:17:01,037 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 20:17:01,545 - __main__ - INFO - Starting in GUI mode
+2025-06-13 20:17:01,657 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 20:17:03,748 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 20:17:03,749 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:17:03,759 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 20:17:03,760 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 20:17:03,761 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 20:17:03,762 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 20:17:04,212 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:17:04,216 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 20:17:04,217 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 20:17:04,218 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 20:17:04,219 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 20:17:32,933 - __main__ - INFO - Application closed normally
+2025-06-13 20:18:39,740 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 20:18:41,567 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 20:18:41,568 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 20:18:41,568 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:18:41,572 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 20:18:41,572 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 20:18:41,572 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 20:18:41,574 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 20:18:42,042 - __main__ - INFO - Starting in GUI mode
+2025-06-13 20:18:42,070 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 20:18:44,181 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 20:18:44,181 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:18:44,187 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 20:18:44,188 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 20:18:44,189 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 20:18:44,190 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 20:18:44,499 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:18:44,505 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 20:18:44,505 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 20:18:44,506 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 20:18:44,506 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 20:19:04,100 - __main__ - INFO - Application closed normally
+2025-06-13 20:21:32,741 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 20:21:34,561 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 20:21:34,561 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 20:21:34,562 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:21:34,569 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 20:21:34,570 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 20:21:34,570 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 20:21:34,571 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 20:21:35,328 - __main__ - INFO - Starting in GUI mode
+2025-06-13 20:21:35,394 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 20:21:37,403 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 20:21:37,404 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:21:37,407 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 20:21:37,407 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 20:21:37,408 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 20:21:37,408 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 20:21:37,705 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:21:37,707 - src.face_recognizer - INFO - Loaded encoding for user 1
+2025-06-13 20:21:37,708 - src.face_recognizer - INFO - Loaded encoding for user TEST001
+2025-06-13 20:21:37,708 - src.face_recognizer - INFO - Loaded encoding for user TEST002
+2025-06-13 20:21:37,708 - src.face_recognizer - INFO - Reloaded 3 user face encodings
+2025-06-13 20:21:49,363 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 20:21:51,268 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 20:22:08,932 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 20:22:14,142 - __main__ - INFO - Application closed normally
+2025-06-13 20:23:20,481 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 20:23:22,469 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 20:23:22,469 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 20:23:22,470 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:23:22,471 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:23:23,016 - __main__ - INFO - No registered users found. System is ready for new registrations.
+2025-06-13 20:23:23,017 - __main__ - INFO - Starting in GUI mode
+2025-06-13 20:23:23,048 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 20:23:25,134 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 20:23:25,135 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:23:25,136 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:23:25,541 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:23:25,544 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:24:04,570 - __main__ - INFO - Application closed normally
+2025-06-13 20:25:56,126 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 20:25:58,055 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 20:25:58,056 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 20:25:58,056 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:25:58,057 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:25:58,592 - __main__ - INFO - No registered users found. System is ready for new registrations.
+2025-06-13 20:25:58,593 - __main__ - INFO - Starting in GUI mode
+2025-06-13 20:25:58,643 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 20:26:00,642 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 20:26:00,642 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:26:00,642 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:26:00,969 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:26:00,971 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:26:53,951 - __main__ - INFO - Application closed normally
+2025-06-13 20:29:39,181 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 20:29:41,017 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 20:29:41,017 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 20:29:41,018 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:29:41,019 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:29:41,496 - __main__ - INFO - No registered users found. System is ready for new registrations.
+2025-06-13 20:29:41,497 - __main__ - INFO - Starting in GUI mode
+2025-06-13 20:29:41,550 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 20:29:43,498 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 20:29:43,499 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:29:43,500 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:29:43,746 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:29:43,747 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:32:40,554 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 20:32:42,422 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 20:32:42,422 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 20:32:42,422 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:32:42,423 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:32:42,970 - __main__ - INFO - No registered users found. System is ready for new registrations.
+2025-06-13 20:32:42,971 - __main__ - INFO - Starting in GUI mode
+2025-06-13 20:32:43,016 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 20:32:44,970 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 20:32:44,972 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:32:44,973 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:32:45,273 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:32:45,275 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:33:03,848 - __main__ - INFO - Application closed normally
+2025-06-13 20:54:56,725 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 20:54:59,059 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 20:54:59,060 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 20:54:59,061 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:54:59,063 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:54:59,860 - __main__ - INFO - No registered users found. System is ready for new registrations.
+2025-06-13 20:54:59,861 - __main__ - INFO - Starting in GUI mode
+2025-06-13 20:54:59,949 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 20:55:02,270 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 20:55:02,272 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:55:02,273 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:55:02,557 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:55:02,559 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:56:15,089 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 20:56:15,090 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:56:15,092 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:56:21,625 - src.face_recognizer - WARNING - No registered users in database - recognition will return 'Unknown' until users are registered
+2025-06-13 20:56:32,824 - __main__ - INFO - Application closed normally
+2025-06-13 20:59:37,884 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 20:59:39,974 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 20:59:39,975 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 20:59:39,975 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:59:39,977 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:59:40,498 - __main__ - INFO - No registered users found. System is ready for new registrations.
+2025-06-13 20:59:40,499 - __main__ - INFO - Starting in GUI mode
+2025-06-13 20:59:40,552 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 20:59:43,089 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 20:59:43,089 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:59:43,091 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 20:59:43,390 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 20:59:43,391 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 21:00:35,140 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 21:00:35,141 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 21:00:35,145 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 21:01:03,346 - src.face_recognizer - WARNING - No registered users in database - recognition will return 'Unknown' until users are registered
+2025-06-13 21:01:11,375 - __main__ - INFO - Application closed normally
+2025-06-13 21:10:58,036 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 21:11:00,121 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 21:11:00,122 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 21:11:00,122 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 21:11:00,158 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 21:11:01,182 - __main__ - INFO - Starting in GUI mode
+2025-06-13 21:11:01,280 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 21:11:03,877 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 21:11:03,879 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 21:11:03,880 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 21:11:04,206 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 21:11:04,208 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 21:11:26,231 - src.face_recognizer - WARNING - No registered users in database - recognition will return 'Unknown' until users are registered
+2025-06-13 21:11:34,502 - __main__ - INFO - Application closed normally
+2025-06-13 21:15:31,036 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 21:15:32,903 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 21:15:32,905 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 21:15:32,906 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 21:15:32,910 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 21:15:33,415 - __main__ - INFO - Starting in GUI mode
+2025-06-13 21:15:33,455 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 21:15:35,614 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 21:15:35,615 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 21:15:35,617 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 21:15:35,923 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 21:15:35,925 - src.face_recognizer - INFO - No registered users found in the database. System is ready for new registrations.
+2025-06-13 21:16:06,193 - src.face_recognizer - WARNING - No registered users in database - recognition will return 'Unknown' until users are registered
+2025-06-13 21:16:10,139 - __main__ - INFO - Application closed normally
+2025-06-13 21:27:48,842 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 21:27:51,050 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 21:27:51,051 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 21:27:51,051 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 21:27:51,082 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 21:27:51,084 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 21:27:52,028 - __main__ - INFO - Starting in GUI mode
+2025-06-13 21:27:52,101 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 21:27:54,686 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 21:27:54,686 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 21:27:54,689 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 21:27:54,689 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 21:27:55,033 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 21:27:55,035 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 21:27:55,035 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 21:28:08,775 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 21:28:10,291 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 21:28:11,259 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 21:28:12,280 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 21:28:25,217 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 21:28:33,444 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 21:28:34,381 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 21:28:36,428 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 21:28:46,774 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 21:28:48,241 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 21:28:49,343 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 21:28:50,506 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 21:28:51,687 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 21:28:52,867 - __main__ - INFO - Application closed normally
+2025-06-13 22:05:50,038 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 22:05:52,233 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 22:05:52,234 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 22:05:52,234 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 22:05:52,238 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 22:05:52,238 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 22:05:53,104 - __main__ - INFO - Starting in GUI mode
+2025-06-13 22:05:53,179 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 22:05:55,424 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 22:05:55,425 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 22:05:55,427 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 22:05:55,429 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 22:05:55,714 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 22:05:55,716 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 22:05:55,717 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 22:06:13,020 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:06:14,515 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:06:15,468 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:06:16,390 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:06:24,828 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:06:32,451 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:06:36,551 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:06:39,355 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:06:45,449 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:06:53,723 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:06:54,587 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:06:55,533 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:06:56,534 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:07:14,754 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:07:15,951 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:07:20,254 - __main__ - INFO - Application closed normally
+2025-06-13 22:15:52,464 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 22:15:54,269 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 22:15:54,269 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 22:15:54,270 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 22:15:54,272 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 22:15:54,272 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 22:15:54,677 - __main__ - INFO - Starting in GUI mode
+2025-06-13 22:15:54,717 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 22:15:56,606 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 22:15:56,607 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 22:15:56,608 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 22:15:56,609 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 22:15:56,879 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 22:15:56,881 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 22:15:56,882 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 22:17:59,015 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:18:02,063 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:18:03,050 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:18:05,119 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:18:06,213 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:18:12,323 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:18:32,341 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 22:18:32,343 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 22:18:32,344 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 22:18:32,753 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 22:18:32,756 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 22:18:32,756 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 22:18:32,966 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 22:18:32,969 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 22:18:32,970 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 22:18:33,161 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 22:18:33,164 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 22:18:33,165 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 22:18:41,492 - __main__ - INFO - Application closed normally
+2025-06-13 22:19:03,446 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 22:19:05,611 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 22:19:05,611 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 22:19:05,611 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 22:19:05,613 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 22:19:05,613 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 22:19:06,065 - __main__ - INFO - Starting in GUI mode
+2025-06-13 22:19:06,102 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 22:19:09,506 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 22:19:09,507 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 22:19:09,510 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 22:19:09,510 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 22:19:09,928 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 22:19:09,932 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 22:19:09,932 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 22:20:13,500 - __main__ - INFO - Application closed normally
+2025-06-13 22:20:30,500 - __main__ - INFO - Initializing Facial Attendance System...
+2025-06-13 22:20:32,376 - src.face_recognizer - INFO - Model loading placeholder - using face_recognition library
+2025-06-13 22:20:32,377 - src.face_recognizer - INFO - Face recognizer initialized with model path: models\face_recognition_model.h5
+2025-06-13 22:20:32,377 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 22:20:32,379 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 22:20:32,380 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 22:20:32,799 - __main__ - INFO - Starting in GUI mode
+2025-06-13 22:20:32,843 - __main__ - INFO - Loading Complete GUI with live camera features
+2025-06-13 22:20:34,740 - src.face_recognizer - INFO - Face recognizer initialized with model path: None
+2025-06-13 22:20:34,740 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 22:20:34,742 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 22:20:34,742 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 22:20:35,040 - src.face_recognizer - INFO - Cleared all known face encodings
+2025-06-13 22:20:35,041 - src.face_recognizer - INFO - Loaded encoding for user 129259
+2025-06-13 22:20:35,042 - src.face_recognizer - INFO - Reloaded 1 user face encodings
+2025-06-13 22:21:47,198 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:21:57,015 - src.face_recognizer - WARNING - No face detected in provided image, using whole image
+2025-06-13 22:23:05,532 - __main__ - INFO - Application closed normally
